@@ -1,3 +1,7 @@
 {
-  "extends": ["tslint-eslint-rules"]
+  "extends": ["tslint-eslint-rules"],
+  "rules": {
+    "no-console": true,
+    "no-constant-condition": true
+  }
 }
