@@ -1,5 +1,5 @@
 {
-  "extends": ["tslint-eslint-rules","tslint-consistent-codestyle"],
+  "extends": ["tslint-eslint-rules","tslint-consistent-codestyle","tslint-microsoft-contrib/recommended"],
   "rules": {
     "no-console": true,
     "no-constant-condition": true,
