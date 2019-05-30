@@ -3,6 +3,5 @@
   "rules": {
     "no-console": true,
     "no-constant-condition": true,
-    "no-collapsible-if": true,
-    "react-no-dangerous-html": [true].concat(grunt.file.readJSON('../xss_exceptions.json'))
+    "no-collapsible-if": true
 }
