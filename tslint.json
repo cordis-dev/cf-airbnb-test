@@ -1,5 +1,5 @@
 {
-  "extends": ["tslint-eslint-rules","tslint-consistent-codestyle","tslint-microsoft-contrib/recommended"],
+  "extends": ["tslint-config-airbnb"],
   "rules": {
     "no-console": true,
     "no-constant-condition": true,
